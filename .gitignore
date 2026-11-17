@@ -1,0 +1,32 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local work products, backups and connection secrets (not the bundled examples)
+/output/
+/tmp/
+/temp/
+/backups/
+/site-config/
+/config/*.local.toml
+/.env
+/.env.*
+*.log
+*.tmp
+
+# Manufacturer manuals are obtained separately; do not redistribute local copies
+*.[pP][dD][fF]
+/manuals-local/
+/vendor-manuals/
+
+# OS/editor state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

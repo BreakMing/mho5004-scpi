@@ -1,0 +1,168 @@
+{
+  "files": {
+    ".gitattributes": {
+      "bytes": 90,
+      "sha256": "8b80c42179332d2d48794752020e744089c2cd808aa66882c3f2bcc7bf0c14d0"
+    },
+    ".gitignore": {
+      "bytes": 483,
+      "sha256": "0f70c06acc1be484a6c8eb8c5470396dbe8fe309a14a120ec4fb6af02c1d3059"
+    },
+    "agents/openai.yaml": {
+      "bytes": 281,
+      "sha256": "7c9eb9c33c408a887580402cebb76f308b15e4839634c84d5ca3fc1ee2152dd5"
+    },
+    "assets/data-summary.md.tpl": {
+      "bytes": 1337,
+      "sha256": "97a51db1625a1efd7071eff30e3a56af6e05d0a0eb82822d3509a4a7dcfb3642"
+    },
+    "assets/previews/csv-window/summary.json": {
+      "bytes": 3202,
+      "sha256": "ffcbe3dd89731f2965279a9c7823e572f9868b6827c443e55fe94340be252ee6"
+    },
+    "assets/previews/csv-window/summary.md": {
+      "bytes": 1417,
+      "sha256": "b2fe719b63e3d27f1c66f18d4aa006c2fa78d7c11174a404e726d215c3740352"
+    },
+    "assets/previews/csv-window/waveform.png": {
+      "bytes": 41146,
+      "sha256": "d34d570fc98e2f9bd108c8f521656cdfae05a2dafca5a995e56c432ca9f5f375"
+    },
+    "assets/previews/csv-window/window.csv": {
+      "bytes": 59949,
+      "sha256": "57173cb6faf5a8877c6a8ef2b81aeb8b77c8a033d2fdbd6d0e2c1836b0abe3a0"
+    },
+    "assets/previews/provenance.json": {
+      "bytes": 1729,
+      "sha256": "0ea412a184fd6da6d35a384f001b3690acbe1f266070affa9d4dcba7e2023629"
+    },
+    "assets/previews/screenshot-gallery/historical-20261109/capture_info.json": {
+      "bytes": 610,
+      "sha256": "f5358b9b3111d80596e630b57e87ebb83fd63c1ef3cd52df8c2212ce239ac5d6"
+    },
+    "assets/previews/screenshot-gallery/historical-20261109/MHO5004_waveform_20261109_185305_268047.png": {
+      "bytes": 98453,
+      "sha256": "6c8c299dd07220d31326c21761012df31a9a0f4c1c4d92a230b27dd7699bca05"
+    },
+    "assets/previews/screenshot-gallery/index.csv": {
+      "bytes": 273,
+      "sha256": "40e4e44656811571d7eeee1dcd5cff82f86fd51a8a77fb5bdc967c0c85a3e6cc"
+    },
+    "assets/previews/screenshot-gallery/index.html": {
+      "bytes": 1471,
+      "sha256": "da3bad690228d0bf1ac9554b5a47624dd208291c4ee0c7be57f817d44ae3e0d3"
+    },
+    "assets/previews/waveform-full.png": {
+      "bytes": 45311,
+      "sha256": "f59711fd65cbc99d72b81621a92f23549fa2b68a6aff70dd9d657cbb7103801e"
+    },
+    "assets/samples/ch1-compensation.csv": {
+      "bytes": 5781407,
+      "sha256": "082f52697316cabb1d19c2494304085109380ce688edfa1315ff7fe80848ce87"
+    },
+    "assets/screenshot-gallery.html.tpl": {
+      "bytes": 959,
+      "sha256": "a9b91560c18fd2405485882522cc70d2113ae14e379ab470901a735cf971515d"
+    },
+    "assets/waveform-style.json": {
+      "bytes": 895,
+      "sha256": "727b80c790dd0b3ff571c0f9fc482cb485f28998e90294301501d4726704336e"
+    },
+    "config/instrument.toml": {
+      "bytes": 285,
+      "sha256": "110ee7be6b23f8b9398e6a08ec01903a8fd92263554402ea94e374a0d73d5e5c"
+    },
+    "DELIVERY.md": {
+      "bytes": 2081,
+      "sha256": "78629229583b85e54799cbf470fd7ecb2d5a869f85dd405cc0ec8ffd6ca56e34"
+    },
+    "LICENSE": {
+      "bytes": 1082,
+      "sha256": "0cd9a6ba00ccea55312399248c485e5bc9a0e31154df18d80ab63469736ede78"
+    },
+    "README.md": {
+      "bytes": 3778,
+      "sha256": "1499ab54a64d91b55f9891c5108feee6e63670589a409268286238b32f462376"
+    },
+    "references/assets.md": {
+      "bytes": 3893,
+      "sha256": "1d23fbe26fed3aade17d2400a36fcc1641152082a7e32449eb1d321f3ce047c4"
+    },
+    "references/capabilities.md": {
+      "bytes": 5373,
+      "sha256": "72db6e876dc2c13d7ff7947026676dfa85772b91ffacc5c2b429714b200fc3ee"
+    },
+    "references/command-index.md": {
+      "bytes": 10163,
+      "sha256": "f717f86dbd8f6b4b72a83c54beb6ba82c5721973358e65da94f6dedcc64d383d"
+    },
+    "references/operations.md": {
+      "bytes": 12310,
+      "sha256": "e59dd2c36479e79e19a6256c938938e93582eec4f45646a82bcc0d765690fb3a"
+    },
+    "references/setup.md": {
+      "bytes": 5898,
+      "sha256": "224f59c5530dd316bd8b22688f2e3c8e7deae3c2c4abb9f85e9f0b55f826599b"
+    },
+    "references/validation.md": {
+      "bytes": 13393,
+      "sha256": "1803f47d8b5df9250816631e0a24e06d873eea0c299a48ddf016a5b815b9785e"
+    },
+    "requirements.txt": {
+      "bytes": 13,
+      "sha256": "24653aac9a1cb6831a79dc8f2e263c87cd19d57fc2cdf68e39e69002a3b22a9b"
+    },
+    "scripts/capture_scope.py": {
+      "bytes": 8375,
+      "sha256": "c7b02a958dd28814f11b9f328569cea232bfab1e94bafe52d1b43adbe2caf90b"
+    },
+    "scripts/scope_capture.py": {
+      "bytes": 2255,
+      "sha256": "8b39db7787726e9c9ed5936f53855e13bd594302d448c173ae8da6a963f2cfa6"
+    },
+    "scripts/scope_csv.py": {
+      "bytes": 12530,
+      "sha256": "e1235b4aacb9068c05532ab9982e00f06123a4c33ee217fc8f020df722605e78"
+    },
+    "scripts/scope_csv_data.py": {
+      "bytes": 12805,
+      "sha256": "ce53d39900cd388587cd9f10eb22bac9a04de7a88a920ca6b0b711971de029ae"
+    },
+    "scripts/scope_paths.py": {
+      "bytes": 942,
+      "sha256": "5fdb2390455507c4fd624a4b2bd1994609cab3b47cb8f3b3e25f0dd8b858ec26"
+    },
+    "scripts/scope_runtime.py": {
+      "bytes": 8436,
+      "sha256": "5bab1d70fcce9beca893a4db821657453ea442402f0bb45a3b5ef35b73e8cf9d"
+    },
+    "scripts/scope_transport.py": {
+      "bytes": 15304,
+      "sha256": "7a9b0253da996711183c85e2bb6acd61643db1c05579f9a576bc9c9511af2e2a"
+    },
+    "SKILL.md": {
+      "bytes": 5611,
+      "sha256": "26112e0c91f40fdb643fa9479ed7159a39cd503c014b20a6121721aa1c31055e"
+    },
+    "tests/test_assets.py": {
+      "bytes": 6701,
+      "sha256": "646877668ecc9abc50a16e89e8fe6a38a7c194c21de742cb0e7fbc5028f3a632"
+    },
+    "tests/test_connection_target.py": {
+      "bytes": 4197,
+      "sha256": "1eaa1cfbba227d030c6e51a5012d6580be3dd82e469cf9e4395a4df2c28a1ab7"
+    },
+    "tests/test_output_boundary.py": {
+      "bytes": 10155,
+      "sha256": "39596e469aa7695c9171d1c35335d4de2462f2e81ccf647f4f4de25e06578e41"
+    },
+    "tests/test_portable.py": {
+      "bytes": 7081,
+      "sha256": "6086351b8ed75c415b051e5c785dd70cc1385b61fc60f4b1b78804822275da79"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 2334,
+      "sha256": "28d5086bfe66cd102acc97cab8d26d5c688274adc53a990f8340699e6210bf81"
+    }
+  }
+}

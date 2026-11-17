@@ -1,0 +1,18 @@
+{
+  "file_evidence": "MHO5004_waveform_20261109_185305_268047.png",
+  "file_bytes": 98453,
+  "file_sha256": "6c8c299dd07220d31326c21761012df31a9a0f4c1c4d92a230b27dd7699bca05",
+  "image": {
+    "format": "PNG",
+    "size": [
+      1920,
+      1200
+    ],
+    "mode": "RGB"
+  },
+  "identity": "Micsig,MHO5004,REDACTED,1.611.171",
+  "captured_at": "2026-11-09T18:53:06.956911+08:00",
+  "historical_example": true,
+  "note": "Historical screenshot preview; serial number redacted in metadata. Original PNG bytes retained. Original network evidence is not bundled.",
+  "metadata_redacted": true
+}

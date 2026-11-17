@@ -1,0 +1,40 @@
+{
+  "canvas": {
+    "width": 1600,
+    "height": 800,
+    "plot_box": [130, 90, 1550, 650],
+    "title_xy": [130, 30],
+    "voltage_label_xy": [130, 62],
+    "time_label_y": 710,
+    "footer_xy": [130, 745]
+  },
+  "colors": {
+    "background": "#ffffff",
+    "waveform": "#1769b5",
+    "grid": "#e1e7ed",
+    "axes": "#627083",
+    "text": "#253347",
+    "title": "#19283e",
+    "footer": "#526079"
+  },
+  "fonts": {
+    "family": "arial.ttf",
+    "regular_size": 21,
+    "title_size": 27
+  },
+  "lines": {
+    "waveform_width": 2,
+    "grid_width": 1,
+    "axes_width": 2
+  },
+  "ticks": {
+    "divisions": 6,
+    "significant_digits": 6
+  },
+  "labels": {
+    "title": "MHO5004 / {source} / CSV waveform",
+    "voltage": "Voltage (V)",
+    "time": "Time ({unit}); original CSV zero retained",
+    "footer": "{count:,} samples plotted; no added probe multiplier, smoothing or resampling"
+  }
+}

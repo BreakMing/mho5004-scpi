@@ -1,0 +1,88 @@
+{
+  "original": {
+    "path": "../../samples/ch1-compensation.csv",
+    "bytes": 5781407,
+    "sha256": "082f52697316cabb1d19c2494304085109380ce688edfa1315ff7fe80848ce87",
+    "source": "CH1",
+    "metadata": {
+      "Model": "MHO5004/REDACTED",
+      "Record Length": "180000",
+      "Sample Interval": "6.666666666666666E-10",
+      "Trigger Time": "0.0",
+      "Source": "CH1",
+      "Vertical Units": "V",
+      "Vertical Scale": "2.0",
+      "Vertical Offset": "0.0",
+      "Horizontal Units": "s",
+      "Horizontal Scale": "1.0E-5",
+      "Probe Atten": "10.0",
+      "Vertical Resolution": "0.005",
+      "StartX": "0",
+      "EndX": "1799",
+      "Label": "",
+      "Wave Type": "DYNAMIC_WAVE"
+    },
+    "rows": 180000,
+    "sample_interval_s": 6.666666666666666e-10,
+    "observed_interval_min_s": 6.665999999981142e-10,
+    "observed_interval_max_s": 6.667000000031356e-10,
+    "max_time_grid_error_s": 3.3333348559670684e-14,
+    "interval_check": "Header spacing within decimal timestamp rounding and floating arithmetic bounds",
+    "first_time_s": -6e-05,
+    "last_time_s": 5.99993333e-05,
+    "voltage_min_V": -0.48,
+    "voltage_max_V": 3.815,
+    "complete_export_file": true,
+    "scope": "Validated CSV export file; total acquisition memory and absence of decimation are not established.",
+    "voltage_policy": "Use CSV voltage directly; do not reapply probe attenuation or vertical offset.",
+    "archived_file": "../../samples/ch1-compensation.csv"
+  },
+  "selection": {
+    "source": "CH1",
+    "parent_sha256": "082f52697316cabb1d19c2494304085109380ce688edfa1315ff7fe80848ce87",
+    "requested_start_s": -1e-06,
+    "requested_end_s": 1e-06,
+    "selected_rows": 3001,
+    "first_sample_index_1based": 88501,
+    "last_sample_index_1based": 91501,
+    "first_time_s": -1e-06,
+    "last_time_s": 1e-06,
+    "time_zero_shift_s": 0,
+    "bounds": "Inclusive comparison on the original CSV time column"
+  },
+  "derived_csv": "window.csv (data columns only; original metadata remains in the source and summary)",
+  "plot": {
+    "file": "waveform.png",
+    "samples_plotted": 3001,
+    "time_zero_shift_s": 0
+  },
+  "templates": {
+    "waveform_style": {
+      "path": "assets/waveform-style.json",
+      "sha256": "727b80c790dd0b3ff571c0f9fc482cb485f28998e90294301501d4726704336e"
+    },
+    "data_summary": {
+      "path": "assets/data-summary.md.tpl",
+      "sha256": "97a51db1625a1efd7071eff30e3a56af6e05d0a0eb82822d3509a4a7dcfb3642"
+    }
+  },
+  "artifacts": {
+    "window.csv": {
+      "bytes": 59949,
+      "sha256": "57173cb6faf5a8877c6a8ef2b81aeb8b77c8a033d2fdbd6d0e2c1836b0abe3a0"
+    },
+    "waveform.png": {
+      "bytes": 41146,
+      "sha256": "d34d570fc98e2f9bd108c8f521656cdfae05a2dafca5a995e56c432ca9f5f375"
+    },
+    "summary.md": {
+      "bytes": 1417,
+      "sha256": "b2fe719b63e3d27f1c66f18d4aa006c2fa78d7c11174a404e726d215c3740352"
+    }
+  },
+  "preview": {
+    "historical_sample": true,
+    "serial_redacted": true,
+    "adaptations": "Rendered from serial-redacted historical CSV; historical label and local source link added. All numeric samples unchanged."
+  }
+}

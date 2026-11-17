@@ -1,0 +1,12 @@
+# No target address is bundled. Pass the confirmed address with --host,
+# or Runtime(..., host=...). Keep site-specific configuration outside the Skill.
+[connection]
+host = ""
+portmapper_port = 111
+max_text_bytes = 1048576
+
+[vxi11]
+device_name = "inst0"
+
+[file_access]
+ftp_port = 3721

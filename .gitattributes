@@ -1,0 +1,2 @@
+# Preserve exact packaged bytes across checkouts; manifest.json hashes raw bytes.
+* -text

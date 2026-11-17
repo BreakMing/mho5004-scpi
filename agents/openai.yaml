@@ -1,0 +1,4 @@
+interface:
+  display_name: "MHO5004 示波器"
+  short_description: "控制MHO5004双通道，采集截图和CSV并保留可核查证据"
+  default_prompt: "使用 $mho5004-scpi 完成当前CH1/CH2实验，保存截图或CSV，并按实际证据说明结论与仪器末态。"

@@ -1,0 +1,36 @@
+{
+  "prepared_on": "2026-11-16",
+  "instrument_operated": false,
+  "historical_examples_only": true,
+  "csv": {
+    "path": "../samples/ch1-compensation.csv",
+    "sha256": "082f52697316cabb1d19c2494304085109380ce688edfa1315ff7fe80848ce87",
+    "full_rows": 180000,
+    "window_rows": 3001,
+    "window_start_s": -1e-06,
+    "window_end_s": 1e-06,
+    "metadata_policy": "Model serial replaced with REDACTED; every byte after first header line unchanged. Sanitized historical sample, not original export bytes.",
+    "numeric_data_unchanged": true
+  },
+  "screenshot": {
+    "path": "screenshot-gallery/historical-20261109/MHO5004_waveform_20261109_185305_268047.png",
+    "sha256": "6c8c299dd07220d31326c21761012df31a9a0f4c1c4d92a230b27dd7699bca05",
+    "metadata_policy": "Original image bytes and capture time retained; serial number redacted from record and indexes."
+  },
+  "templates": {
+    "waveform_style": {
+      "path": "assets/waveform-style.json",
+      "sha256": "727b80c790dd0b3ff571c0f9fc482cb485f28998e90294301501d4726704336e"
+    },
+    "data_summary": {
+      "path": "assets/data-summary.md.tpl",
+      "sha256": "97a51db1625a1efd7071eff30e3a56af6e05d0a0eb82822d3509a4a7dcfb3642"
+    },
+    "screenshot_gallery": {
+      "path": "assets/screenshot-gallery.html.tpl",
+      "sha256": "a9b91560c18fd2405485882522cc70d2113ae14e379ab470901a735cf971515d"
+    }
+  },
+  "summary_preview_policy": "Rendered from sanitized sample; historical label and local CSV link adapted. Numeric data unchanged.",
+  "screenshot_preview_policy": "Historical card notice rendered automatically from historical_example metadata and retained by reindex; image bytes and capture time unchanged."
+}
